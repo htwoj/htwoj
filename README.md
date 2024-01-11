@@ -2,8 +2,8 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htwoj&exclude_repo=htwoj.github.io&layout=compact&theme=tokyonight" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htwoj&exclude_repo=htwoj.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=htwoj&show_icons=true&theme=calm" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=htwoj&show_icons=true&theme=calm"  />
 </a>
