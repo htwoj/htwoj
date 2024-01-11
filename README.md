@@ -2,6 +2,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htwoj&exclude_repo=htwoj.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htwoj&exclude_repo=htwoj.github.io&layout=compact&theme=tokyonight" width="38%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=htwoj&show_icons=true&theme=calm" width="42%"  />
 </p>
