@@ -5,5 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htwoj&exclude_repo=htwoj.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=htwoj&show_icons=true&theme=calm"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=htwoj&show_icons=true&theme=calm" width="42%"  />
 </a>
